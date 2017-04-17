@@ -1,3 +1,4 @@
 function Main(){
   trace("this is main");
+	print("MAIN");
 }
