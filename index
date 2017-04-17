@@ -1,0 +1,3 @@
+function Main(){
+  trace("this is main");
+}
