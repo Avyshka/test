@@ -1,4 +1,8 @@
-function Main(){
+function Main() s{
   trace("this is main");
 	print("MAIN");
+}
+
+Function func() {
+	return;
 }

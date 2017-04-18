@@ -1,2 +1,2 @@
 print("Hello World!");
-end;
+print(«What’s up»);
