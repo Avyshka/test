@@ -1,5 +1,5 @@
 function Main() s{
-  trace("this is main");
+	trace("this is main");
 	print("MAIN");
 }
 
